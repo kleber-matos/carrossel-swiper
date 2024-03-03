@@ -1,0 +1,10 @@
+.swiper-button-next::after {
+  color: black;
+}
+.swiper-button-prev::after {
+  color: black;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+  background-color: black;
+}
